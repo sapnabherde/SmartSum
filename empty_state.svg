@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="100%" height="180">
+  <rect width="300" height="200" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+  <circle cx="150" cy="80" r="40" fill="#E0F2FE" />
+  <path d="M135 70 H165 M135 80 H160 M135 90 H150" stroke="#0284C7" stroke-width="4" stroke-linecap="round" />
+  <text x="150" y="145" font-family="sans-serif" font-size="14" font-weight="600" fill="#64748B" text-anchor="middle">No Document Loaded Yet</text>
+  <text x="150" y="165" font-family="sans-serif" font-size="12" fill="#94A3B8" text-anchor="middle">Paste text or upload a document to get started</text>
+</svg>
